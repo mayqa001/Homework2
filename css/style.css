@@ -1,0 +1,24 @@
+.background{
+    background-color: azure;
+}
+
+.space{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.white{
+    background-color: white;
+}
+
+footer{
+    background-color: gray;
+    border-top: 3px solid lightgreen;
+    text-align: center;
+   
+}
+
+.shareDivSize{
+
+    margin-left: 50px;
+}
