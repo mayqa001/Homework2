@@ -1,4 +1,4 @@
-# Homework2
+# CV
 
 The web is build with boostrap elements.
 
