@@ -32,3 +32,17 @@ footer {
 .bot50px {
     margin-bottom: 50px;
 }
+
+.expand{
+    margin-left: 50%;
+    font-size: 40%;
+    color: gold;
+}
+
+.borderLine{
+    border-bottom: 1px solid #ccc!important;
+}
+
+.borderLine:hover {
+    transform: scale(1.5); 
+  }
